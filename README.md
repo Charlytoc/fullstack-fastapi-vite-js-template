@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Inicia el servidor FastAPI utilizando Uvicorn:
 
 ```bash
-uvicorn main:app --reload
+python main.py
 ```
 
 ### 5. Configurar el Frontend
@@ -81,7 +81,7 @@ npm run build
 
 ### 8. Desplegar el Frontend con FastAPI
 
-Para servir el frontend desde el servidor FastAPI, asegúrate de que el directorio `dist` generado por Vite esté correctamente montado en tu aplicación FastAPI.
+Para servir el frontend desde el servidor FastAPI, asegúrate de que el directorio `dist` generado por Vite esté correctamente montado en tu aplicación FastAPI. (ESTO YA ESTá HECHO)
 
 ## Estructura del Proyecto
 

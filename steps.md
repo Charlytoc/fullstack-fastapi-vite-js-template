@@ -177,7 +177,9 @@ git commit -m "Mensaje de los cambios de tu commit"
 ```bash
 git push origin master
 ```
-El último paso puedes simplificarlo con `git push`
+El último paso puedes simplificarlo con `git push`.
+
+
 
 ### Enlaces adicionales
 - [Documentación de FastAPI](https://fastapi.tiangolo.com/)
